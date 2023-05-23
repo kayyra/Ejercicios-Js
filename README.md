@@ -1,2 +1,2 @@
 # Ejercicios-Js
-Hoy hemos hecho varios ejercicios con JavaScript Parte 1
+Hoy hemos hecho varios ejercicios con JavaScript -> Parte 1
